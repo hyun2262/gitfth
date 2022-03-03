@@ -5,6 +5,8 @@ class Test2 {
         int sum = 0;
 
         Scanner scan = new Scanner(System.in);
+        System.out.print("Input number 1 >> ");
+        num1 = scan.nextInt();
 
         return;
     }
