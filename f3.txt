@@ -1,13 +1,17 @@
-class Test2 {
+class Test {
     public static void main(String[] args) {
         int num1 = 0;
         int num2 = 0;
         int sum = 0;
 
         Scanner scan = new Scanner(System.in);
+<<<<<<< HEAD
         System.out.print("Input number 1 >> ");
         num1 = scan.nextInt();
 
+=======
+        
+>>>>>>> parent of c36ac45 ([create] f4.txt 생성함)
         return;
     }
 }
